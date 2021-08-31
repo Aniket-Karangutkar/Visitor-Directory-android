@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Visiting Register</string>
+    <string-array name="test_array">
+        <item>Choose an option.</item>
+        <item>Option 1</item>
+        <item>Option 2</item>
+    </string-array>
+</resources>
